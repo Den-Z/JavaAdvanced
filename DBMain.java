@@ -14,6 +14,8 @@ public class DBMain {
 		db.insertDB(someone);
 		System.out.println(user);
 		
+		oh my god
+		
 
 	}
 
